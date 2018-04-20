@@ -1,0 +1,27 @@
+{
+  "items": [
+      {
+        "type" : "book",
+        "label" : "Java Curiosities",
+        "author" : "Luis Miguel",
+        "image": "http://www.gravatar.com/avatar/a133c7d8d9245d063b136732272ea77e",
+        "url": "http://javacuriosities.blogspot.com.ar/"
+      },
+      {
+        "type" : "CD",
+        "label" : "No culpes a la noche",
+        "author" : "Luis Miguel",
+        "image": "http://www.gravatar.com/avatar/a133c7d8d9245d063b136732272ea77e"
+      },
+      {
+        "type" : "book",
+        "label" : "Mule in Action",
+        "author" : "Victor Romero"
+      },
+      {
+        "type" : "CD",
+        "label" : "Yesterday",
+        "author" : "The Beatles"
+      }
+    ]
+}
