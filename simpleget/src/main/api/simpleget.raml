@@ -1,0 +1,24 @@
+#%RAML 1.0
+title: productdesign
+version: 1.0
+baseUri: http://localhost:8065/api/
+mediaType: application/json
+protocols: [HTTP, HTTPS]
+
+/v1:
+  /{product_id}:
+      get:
+        responses: 
+          200:
+            body: 
+              application/json:
+                example: |
+                  {
+                  "productName": "XYZ",                  
+                  "brand": "GOOD"
+                  } 
+          
+
+
+  
+     
